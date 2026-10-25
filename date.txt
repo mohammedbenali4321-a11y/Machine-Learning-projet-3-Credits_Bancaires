@@ -1,0 +1,97 @@
+====================================================================
+
+               INFORMATIONS ET MÉTADONNÉES DU PROJET
+
+====================================================================
+
+
+
+NOM DU PROJET          : CreditSmart Analytics
+
+DOMAINE                : Data Science / Data Analyst / Machine Learning / Risk Management
+
+DATE DE CRÉATION       : Mai 15-16/05/ 2026
+
+DATE DE PUBLICATION    : Octobre 25/10/ 2026
+
+VERSION                : 1.0.0
+
+
+
+--------------------------------------------------------------------
+
+ INFORMATIONS ACADÉMIQUES
+
+--------------------------------------------------------------------
+
+FILIÈRE                : Génie Informatique / Data Engineering
+
+OPTION / SPÉCIALITÉ    : Data Science / Data Analyst & Intelligence Artificielle (DSIA)
+
+CADRE DU PROJET        : Travaux Pratiques / Projet 
+
+
+
+--------------------------------------------------------------------
+
+ DESCRIPTION DU PROJET
+
+--------------------------------------------------------------------
+
+CreditSmart Analytics est une solution d'analyse de données et de 
+
+modélisation prédictive appliquée au secteur bancaire. Le projet vise 
+
+à évaluer le risque de crédit en analysant les profils des emprunteurs 
+
+et en prédisant le risque de défaut de paiement (Variable : defaut_paiement).
+
+
+
+Il couvre l'ensemble du pipeline Data Science :
+
+1. Exploration et nettoyage des données (Analyse des valeurs manquantes et distribution)
+
+2. Analyse Exploratoire des Données (EDA - Analyse bivariée et distributions)
+
+3. Prétraitement (Imputation, One-Hot Encoding, StandardScaler)
+
+4. Modélisation Prédictive (Arbres de décision, Random Forest, Régression)
+
+5. Évaluation des performances (Accuracy, Recall, F1-Score, Matrice de confusion)
+
+
+
+--------------------------------------------------------------------
+
+ TECHNOLOGIES ET OUTILS
+
+--------------------------------------------------------------------
+
+- Langage            : Python 3.x
+
+- Bibliothèques ML   : Scikit-Learn
+
+- Manipulation Data  : Pandas, NumPy
+
+- Visualisation      : Matplotlib, Seaborn
+
+- Gestion de Version : Git / GitHub
+
+
+
+--------------------------------------------------------------------
+
+ STRUCTURE DES DONNÉES
+
+--------------------------------------------------------------------
+
+Fichier Source       : credits_bancaires.csv
+
+Variable Cible       : defaut_paiement (0 = Normal, 1 = Défaut)
+
+Variables Clés       : revenu_mensuel_mad, ratio_endettement, 
+
+                       historique_credit, anciennete_emploi_ans
+
+====================================================================
